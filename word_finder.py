@@ -1,3 +1,5 @@
+#Eliza Luo, AthenaHacks
+
 from funcs import *
 
 def main():
